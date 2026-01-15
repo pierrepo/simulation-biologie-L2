@@ -2,7 +2,7 @@
 
 Pierre Poulain
 
-Université Paris Cité.
+Université Paris Cité
 
 - code source: https://github.com/pierrepo/simulation-biologie-L2
 - site: https://pierrepo.github.io/simulation-biologie-L2/lab/index.html
